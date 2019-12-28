@@ -10,6 +10,8 @@
   - visit http://localhost:3010  - Book Service
   - visit http://localhost:3510  - Customer Service
   - visit http://localhost:3600  - Order Service
+  
+  - Access Book and customer services from order to get the customer name and book title using axios
 
 # Before start the code
   - please make sure that you have
